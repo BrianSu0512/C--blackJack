@@ -26,9 +26,6 @@ namespace AsyncBlackJack
             yield return "eight";
             yield return "nine";
             yield return "ten";
-            yield return "eight";
-            yield return "nine";
-            yield return "ten";
             yield return "jack";
             yield return "queen";
             yield return "king";
