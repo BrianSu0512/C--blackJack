@@ -1,0 +1,15 @@
+/Users/brian/C#/blackJack/bin/Debug/net7.0/blackJack
+/Users/brian/C#/blackJack/bin/Debug/net7.0/blackJack.deps.json
+/Users/brian/C#/blackJack/bin/Debug/net7.0/blackJack.runtimeconfig.json
+/Users/brian/C#/blackJack/bin/Debug/net7.0/blackJack.dll
+/Users/brian/C#/blackJack/bin/Debug/net7.0/blackJack.pdb
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.csproj.AssemblyReference.cache
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.AssemblyInfoInputs.cache
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.AssemblyInfo.cs
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.csproj.CoreCompileInputs.cache
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.dll
+/Users/brian/C#/blackJack/obj/Debug/net7.0/refint/blackJack.dll
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.pdb
+/Users/brian/C#/blackJack/obj/Debug/net7.0/blackJack.genruntimeconfig.cache
+/Users/brian/C#/blackJack/obj/Debug/net7.0/ref/blackJack.dll
